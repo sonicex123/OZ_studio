@@ -116,7 +116,7 @@ body,
   height: 100%;
 }
 body {
-  background: #eee;
+  background: #22274F;
   font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -167,7 +167,6 @@ body {
   -ms-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   z-index: 1;
-  background: #eee;
 }
 .mobile-nav-on #wrap {
   left: 280px;
@@ -187,7 +186,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #999;
+  color: #fff;
   margin-bottom: 1em;
   margin-left: 5px;
   line-height: 1em;
@@ -1270,7 +1269,7 @@ pre .javascript .function {
   margin: 50px 0;
 }
 .widget {
-  color: #777;
+  color: #ffffff;
   text-shadow: 0 1px #fff;
   background: #5724b2;
   -webkit-box-shadow: 0 -1px 4px #ccc inset;
@@ -1280,9 +1279,10 @@ pre .javascript .function {
   border-radius: 3px;
 }
 .widget a {
-  color: #FFF;
+  color: #fff;
   font-size: 15px;
   text-decoration: none;
+  font-family: Microsoft JhengHei;
 }
 .widget a:hover {
   text-decoration: underline;
