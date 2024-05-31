@@ -381,6 +381,7 @@ body {
 .main-nav-link {
   float: left;
   color: #fff;
+  opacity: 0.6;
   text-decoration: none;
   text-shadow: 0 1px rgba(0,0,0,0.2);
   -webkit-transition: opacity 0.2s;
@@ -1272,7 +1273,7 @@ pre .javascript .function {
 .widget {
   color: #777;
   text-shadow: 0 1px #fff;
-  background: #5724b2;
+  background: #ddd;
   -webkit-box-shadow: 0 -1px 4px #ccc inset;
   box-shadow: 0 -1px 4px #ccc inset;
   border: 1px solid #ccc;
@@ -1280,8 +1281,7 @@ pre .javascript .function {
   border-radius: 3px;
 }
 .widget a {
-  color: #FFF;
-  font-size: 15px;
+  color: #258fb8;
   text-decoration: none;
 }
 .widget a:hover {
